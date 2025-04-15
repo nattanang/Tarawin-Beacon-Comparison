@@ -5,5 +5,5 @@
 	"author": "nattanang",
 	"factorio_version": "2.0",
 	"dependencies": ["? pypostprocessing"],
-	"description": "A reupload of Kane.Nexus & Atlas1205' outdated Tarawind Beacons mod, which added 7 tiers of powerful beacons that accept productivity modules. (Not design to accept quality module yet, anyone can edit this to accapt quality module)",
+	"description": "A reupload of Kane.Nexus & Atlas1205' outdated Tarawind Beacons mod, which added 7 tiers of powerful beacons that accept productivity modules. (Tried to design to accept quality module, anyone can edit this to fix this if not fixed yet)",
 }
