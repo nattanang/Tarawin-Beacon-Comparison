@@ -24,5 +24,13 @@ data:extend(
     default_value = true
   },
 
+ {
+    type = "bool-setting",
+    name = "TBRE-Quality",
+	order = "abd",
+    setting_type = "startup",
+    default_value = true
+  },
+
 }
 )
